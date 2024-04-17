@@ -1,0 +1,183 @@
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\appsettings.Development.json
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\appsettings.json
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\AstronoApi.exe
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Azure.Core.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Humanizer.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Repositories.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Services.dll
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Repositories.pdb
+D:\AstronoApi\AstronoApi\bin\Debug\net6.0\Services.pdb
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.csproj.AssemblyReference.cache
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.AssemblyInfoInputs.cache
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.AssemblyInfo.cs
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.csproj.CoreCompileInputs.cache
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.AstronoApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AstronoApi.props
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AstronoApi.props
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AstronoApi.props
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\scopedcss\bundle\AstronoApi.styles.css
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.csproj.CopyComplete
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.dll
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\refint\AstronoApi.dll
+D:\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\AstronoApi.exe
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\AstronoApi.deps.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\AstronoApi.runtimeconfig.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\AstronoApi.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\AstronoApi.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Repositories.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Services.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Repositories.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\bin\Debug\net6.0\Services.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.AstronoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AstronoApi.props
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AstronoApi.props
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AstronoApi.props
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\scopedcss\bundle\AstronoApi.styles.css
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.csproj.CopyComplete
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\refint\AstronoApi.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\ref\AstronoApi.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\AstronoApi\obj\Debug\net6.0\AstronoApi.MvcApplicationPartsAssemblyInfo.cs

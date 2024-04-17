@@ -1,0 +1,28 @@
+D:\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\AstronoApi\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\AstronoApi\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Картини\Работен плот\AstronoApi\Repositories\obj\Debug\net6.0\ref\Repositories.dll
