@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astrono</title>
+    <link rel="stylesheet" href="/uikit-3.17.11/css/uikit.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.17.11/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.17.11/dist/js/uikit-icons.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <div class="container" id="container">
+        <div class="form-container sign-up-container">
+            <form action="#">
+                <h1 class="gradient uk-margin-small-bottom" id="277"></h1>
+                <div class="uk-margin-small-top uk-margin-bottom">
+                    <input class="uk-margin-small-top uk-margin-bottom username" id="usernameRegister" placeholder=""type="text" placeholder="Username" style="background-color: #CDD7F8;  
+                box-shadow: 1px 0px 40px 4px #B88BFE;" />
+                    <input class="uk-margin-top uk-margin-bottom email" id="emailRegister" type="email" placeholder="" style="background-color: #DBD8FC;  
+                box-shadow: 1px 0px 40px 4px #9789F9;" />
+                    <input class="uk-margin-top uk-margin-small-bottom password" id="passwordRegister" type="" placeholder="Password" style="background-color: #E8D9FF;  
+                    box-shadow: 1px 0px 40px 4px #8195F3;" />
+                </div>
+                <button class="signUp button" id="registrateBtn"></button>
+                <span class="uk-margin-top" id="279"></span>
+            </form>
+        </div>
+        <div class="form-container sign-in-container">
+            <form action="#">
+                <h1 class="gradient" id="292"></h1>
+                <div class="uk-margin-medium-top uk-margin-medium-bottom">
+                    <input class="uk-margin-small-top uk-margin-medium-bottom username" id="usernameLogin" type="text" placeholder="" style="background-color: #CDD7F8;  
+                    box-shadow: 1px 0px 40px 10px #B88BFE;
+                    " />
+                    <input class="uk-margin-top password" id="passwordLogin" type="password" placeholder="" style="background-color: #E8D9FF;
+                    box-shadow: 1px 0px 40px 10px #8195F3;
+                    " />
+                </div>
+                <button class="button signIn" id="loginBtn"></button>
+                <span class="uk-margin-top" id="271"></span>
+            </form>
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <button id="btn" class="translate"><img src="/public/translateIconDark.png" /><span
+                        class="tbtn"></span></button>
+                    <h1 class=" uk-margin-top" id="275"></h1>
+                    <p class="uk-margin-top" id="276" style="width: 70%;"></p>
+                    <button class="signIn ghost signIn button"></button>
+                    <span class="uk-margin-top" style="width: 15dvw"><a class="274 uk-link-heading" href="/notlogedPages/homePage/"></a></span>
+                </div>
+                <div class="overlay-panel overlay-right">
+                    <button id="btn" class="translate"><img src="/public/translateIconDark.png" /><span
+                        class="tbtn"></span></button>
+                    <h1 id="272"></h1>
+                    <p class="uk-margin-top" id="273"></p>
+                    <button class="ghost signUp button"></button>
+                    <span class="uk-margin-top" style="width: 15dvw"><a class="274 uk-link-heading" href="/notlogedPages/homePage/"></a></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./form.js"></script>
+    <script src="./helpers.js"></script>
+    <script src="./translate.js"></script>
+    <script src="./translatePage.js"></script>
+    <script src="./login.js"></script>
+    <script src="./registration.js"></script>
+</body>
+
+</html>
