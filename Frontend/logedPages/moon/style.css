@@ -152,7 +152,7 @@ td p{
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 740px) {
   #biggerSceenNav {
     display: none;
   }

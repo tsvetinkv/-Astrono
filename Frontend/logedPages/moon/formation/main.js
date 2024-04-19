@@ -1,7 +1,7 @@
 import * as THREE from "https://cdn.skypack.dev/three@0.132.2";
 import { OrbitControls } from "https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js";
-const moonTexture = "/moon/assets/moon-texture.jpg";
-const moonDisplacementMap = "/moon/assets/moon-displacement.jpg";
+const moonTexture = "/logedPages/moon/assets/moon-texture.jpg";
+const moonDisplacementMap = "/logedPages/moon/assets/moon-displacement.jpg";
 const textureLoader = new THREE.TextureLoader();
 
 const scene1 = new THREE.Scene();

@@ -108,7 +108,7 @@ figcaption{
 
 }
 
-@media (min-width: 450px) and (max-width: 600px) {
+@media (min-width: 450px) and (max-width: 740px) {
     #btn img, img {
         width: auto!important;
     }
