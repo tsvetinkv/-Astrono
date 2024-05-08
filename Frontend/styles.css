@@ -35,6 +35,10 @@ b {
     color: #B88AFE;
 }
 
+.sign-in-form, .sign-up-form{
+    display: none;
+}
+
 .button {
     border-radius: 20px;
     border: none;
@@ -49,12 +53,12 @@ b {
     transition: transform 80ms ease-in;
 }
 
-.translate{
+.translate {
     background: transparent;
     border: none;
 }
 
-.translate span{
+.translate span {
     font-size: 0.8rem;
     color: #7C2BFF !important;
     display: block;
@@ -101,9 +105,12 @@ input {
     background-position: 10px center;
     padding-left: 46px;
 }
-b, button{
+
+b,
+button {
     cursor: pointer;
 }
+
 .gradient {
     background: -webkit-linear-gradient(360deg, #7897F2 0%, #BA8AFF 80%);
     -webkit-background-clip: text;
@@ -236,4 +243,30 @@ b, button{
 
 .container.right-panel-active .overlay-right {
     transform: translateX(20%);
+}
+
+.uk-inline {
+    display: inline-flex !important;
+    gap: 10%;
+    width: 40dvw;
+}
+
+@media (max-width: 1245px) {
+    .container, .sign-up-form {
+        display: none;
+    }
+    .sign-in-form{
+        display: block;
+    }
+}
+
+@media (max-width: 714px) {
+    .uk-inline {
+        display: block !important;
+        width: 100%;
+    }
+
+    span {
+        width: 50vw !important;
+    }
 }
